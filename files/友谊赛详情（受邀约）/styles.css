@@ -986,3 +986,27 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u75 {
+  position:absolute;
+  left:62px;
+  top:507px;
+  width:196px;
+  height:13px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+}
+#u75_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:196px;
+  height:13px;
+}
+#u76 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:196px;
+  white-space:nowrap;
+}
