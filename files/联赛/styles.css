@@ -1105,3 +1105,25 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u87 {
+  position:absolute;
+  left:108px;
+  top:513px;
+  width:105px;
+  height:13px;
+  color:#FF0000;
+}
+#u87_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:105px;
+  height:13px;
+}
+#u88 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:105px;
+  white-space:nowrap;
+}

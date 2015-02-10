@@ -447,3 +447,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u39 {
+  position:absolute;
+  left:68px;
+  top:120px;
+  width:183px;
+  height:13px;
+  color:#FF0000;
+}
+#u39_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:13px;
+}
+#u40 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  white-space:nowrap;
+}
