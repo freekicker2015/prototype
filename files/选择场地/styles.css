@@ -2086,3 +2086,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u174 {
+  position:absolute;
+  left:239px;
+  top:22px;
+  width:55px;
+  height:30px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:10px;
+  color:#FF0000;
+}
+#u174_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:55px;
+  height:30px;
+}
+#u175 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:55px;
+  word-wrap:break-word;
+}
